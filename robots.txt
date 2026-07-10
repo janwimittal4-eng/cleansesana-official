@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://janwimittal4-eng.github.io/ketosana/sitemap.xml
+Sitemap: https://cleansesana-official.vercel.app/sitemap.xml
